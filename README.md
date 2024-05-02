@@ -15,7 +15,9 @@ This application represents an advanced expense tracking tool developed utilizin
 Initially, I employed the Flutter framework and Dart programming language to craft the user interface of this application. Subsequently, Firebase integration was implemented to facilitate seamless storage and retrieval of user data, ensuring dynamic access to pertinent information. Moreover, the state management aspect was proficiently managed through the utilization of Flutter Bloc, a robust library for handling business logic components.
 
 ## 📷Screenshots
-![expense_tracker_ui](https://github.com/aswinmohan24/expense_tracker_flutter/assets/156991420/7bc56385-6b9e-44b7-aea5-c22b9aac8114)
+![expense_tracker_ui_ss](https://github.com/aswinmohan24/expense_tracker_flutter/assets/156991420/c1b17271-9d39-45c9-9c00-23df54b68a7f)
+
+
 
 
 
