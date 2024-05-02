@@ -1,16 +1,39 @@
-# expense_tracker
+# 📱Expense Tracker App
 
-A new Flutter project.
+## 📚Description
 
-## Getting Started
+This application represents an advanced expense tracking tool developed utilizing Flutter and Dart technologies. Offering seamless management of expenses, its intuitive user interface enhances convenience and ease of use. Notably, users can effortlessly customize expense categories according to their preferences, adding a layer of personalization to their financial management experience.
 
-This project is a starting point for a Flutter application.
+## 📦 Technologies
+- Flutter Framework
+- Dart
+- Flutter Bloc
+- Firebase
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚Process
+Initially, I employed the Flutter framework and Dart programming language to craft the user interface of this application. Subsequently, Firebase integration was implemented to facilitate seamless storage and retrieval of user data, ensuring dynamic access to pertinent information. Moreover, the state management aspect was proficiently managed through the utilization of Flutter Bloc, a robust library for handling business logic components.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷Screenshots
+![expense_tracker_ui](https://github.com/aswinmohan24/expense_tracker_flutter/assets/156991420/7bc56385-6b9e-44b7-aea5-c22b9aac8114)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
